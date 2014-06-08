@@ -5,7 +5,7 @@ This is part of [mayfly](https://github.com/bewt85/mayfly) which demonstrates th
 concept of testing groups of versions of services in short lived virtual environments.
 
 This is a docker container which runs a simple frontend service.  It comes in (at least)
-two version:
+two versions:
 
 - release/0.0.1; and
 - release/0.0.2
